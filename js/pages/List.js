@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieve the record without using hacks (however, CBF/FPS bypass is allowed, up to 360fps on 2.1, unlimited on 2.2)
+                        Achieve the record without using hacks (however, CBF/FPS bypass is allowed, up to 360fps on 2.1 (2.1 records no longer accepted effective 1/1/2026), unlimited on 2.2)
                     </p>
                     <p>
                         Achieve the record on the level that is listed on the site - please check the level ID before you submit a record
