@@ -106,7 +106,7 @@ export default {
                         Achieve the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count. If you do not have a video, but still claim to beat it, I may still accept it, but to speed up the process please make an effort to rebeat it on video
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count. If you do not have a video, but still claim to beat it, I may still accept it, but to speed up the process please make an effort to rebeat it on video. If you beat it first, but do not have a video, the first person to beat it on video will be declared the verifier
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
